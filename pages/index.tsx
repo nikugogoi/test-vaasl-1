@@ -5,9 +5,9 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://www.laconic.com/">Laconic!</a>
+          Welcome to <a href="https://www.laconic.com/">Laconic! (Updated on 21st August)</a>
         </h1>
-        <p>Testing with laconic mainnet to delete main deployment</p>
+        <p>Testing for deployer changes to support custom NextJS build and run</p>
 
         <div className={styles.grid}>
 
